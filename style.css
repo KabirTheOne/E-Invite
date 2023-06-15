@@ -1,0 +1,20 @@
+body {
+    background-image: url("Anime.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Dancing Script', cursive;
+    color: rgb(233, 153, 232);
+    font-weight: bold;
+}
+
+div {
+    border-radius: 5px;
+    padding: 5px;
+    size: 50%;
+}
+
+#my {
+    height: 600px;
+    float: left;
+}
